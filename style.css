@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.9);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px grey;
+    padding: 1px; 
+}
+li{
+    justify-content: space-between;
+    display: inline-flex;
+    padding: 25px;
+    text-align: right;
+    float: right;
+    font-size: 20px;
+
+}
+a{
+    border: 0;
+    margin-top: -15px;
+    margin-bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    color: wheat;
+    text-decoration: none;
+    text-align: right;
+    background:  #119CFDFF;
+    transition: 200ms linear;
+    border: 2px solid #119CFDFF;
+
+}
+a:hover{
+    background: rgba(0, 0, 0, 0.9);
+    border: 2px solid #119CFDFF;
+    box-shadow: 0;
+}
+
+
+
+li a {
+    text-align: right;
+}
+.dash li a{
+    color: Blue;
+    background-color: white;
+    border: 2px black;
+    border-radius: 0px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.9);
+}
+.dash li a:hover{
+    border: 2px solid #119CFDFF;
+    background-color: #119CFDFF;
+    color: white;
+}
+.panel li a{
+    margin-left: 10px;
+    color: white;
+    background-color: rgb(0, 149, 255);
+    border: 2px black;
+    border-radius: 0px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.9);
+}
+.panel li a:hover{
+    border: 2px solid #119CFDFF;
+    background-color: rgb(255, 255, 255);
+    color: #119CFDFF;
+}
+span{
+    color: #119CFDFF;
+}
+nav h1{
+    color: white;
+    font-size: 30px;
+    padding: 15px;
+}
