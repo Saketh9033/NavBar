@@ -3,10 +3,10 @@ A simple NavBar for hosting website
 # Preview 
 
 **Preview 1**
-![Screenshot](ScreenShots/Previve 1.png)
+![Basic Look](Screenshots/Preview 1)
 
 **Preview 2**
-![Screenshot](ScreenShots/Previve 2.png)
+![Hover Effect](Screenshots/Preview 2)
 
 **Preview 3**
-![Screenshot](ScreenShots/Previve 3.png)
+![Hover Effect of `Panel` and `Dash` buttons](Screenshots/Preview 3)
