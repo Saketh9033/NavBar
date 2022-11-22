@@ -1,12 +1,5 @@
 # NavBar
 A simple NavBar for hosting website
 # Preview 
+![unknown](https://cdn.discordapp.com/attachments/1039420297612369920/1044611237981454376/Preview_1.png)
 
-**Preview 1** 
-<p align="center"><a href="https://github.com/Saketh9033/NavBar/"><img src="https://github.com/Saketh9033/NavBar/Screenshots/Preview 1.png" height="20"> 
-
-**Preview 2**
-<p align="center"><a href="https://github.com/Saketh9033/NavBar/"><img src="https://github.com/Saketh9033/NavBar/Screenshots/Preview 2.png" height="20"> 
- 
-**Preview 3**
-<p align="center"><a href="https://github.com/Saketh9033/NavBar/"><img src=="https://github.com/Saketh9033/NavBar/Screenshots/Preview 3.png" height="20"> 
